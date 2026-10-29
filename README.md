@@ -1,23 +1,35 @@
 # Ahmed Raza
 
-### n8n Automation Developer
+### n8n Automation Specialist | AI Workflow Developer
 
-I design practical n8n workflows that connect business tools, APIs, CRMs, messaging platforms, and AI services.
+I build practical AI-powered automations for service businesses and operational teams. My work focuses on turning repetitive processes into reliable workflows with clear human approval points.
 
-## What I work on
+## What I build
 
-- AI-powered workflow automation
-- Lead capture, qualification, and follow-up systems
-- WhatsApp, Telegram, Gmail, and Google Sheets integrations
-- Webhooks, API integrations, notifications, and approval flows
-- Business process automation with human review where needed
+- AI lead capture, qualification, and follow-up systems
+- Sales proposal and quotation generation workflows
+- Missed-call recovery and appointment booking automations
+- Gmail, Telegram, Google Sheets, webhooks, and API integrations
+- Business operations workflows for roofing, cleaning, dental, and other service businesses
+- Human-in-the-loop workflows for sensitive decisions
 
-## Current focus
+## Featured projects
 
-Building reliable, easy-to-maintain automations for real business operations—reducing repetitive work while keeping important decisions under human control.
+- [AI Sales Proposal Generator](https://github.com/ogahmedraza/ai-sales-proposal-generator)
+- [Cleaning Service Booking Automation](https://github.com/ogahmedraza/cleaning-service-booking-automation)
+- [Roofing Weather Crew Agent](https://github.com/ogahmedraza/roofing-weather-crew-agent)
+- [Missed Call AI Agent for Dentists](https://github.com/ogahmedraza/missed-call-ai-agent-dentists)
+- [Google Maps Email Scraper](https://github.com/ogahmedraza/google-maps-email-scraper)
+- [Telegram AI Agent](https://github.com/ogahmedraza/telegram-ai-agent)
 
-## Open-source direction
+## Core tools
 
-I am publishing reusable automation examples, workflow documentation, and practical integration projects step by step.
+n8n, JavaScript, REST APIs, webhooks, Gmail, Telegram, Google Sheets, AI agents, CRM workflows, approval systems, and business process automation.
 
-If you are working on a useful automation idea, feel free to connect through my GitHub profile.
+## Open-source approach
+
+The repositories here contain reusable workflow examples and documentation. Credentials, private data, client data, and production secrets are intentionally excluded. Each workflow must be configured with the user's own accounts and credentials before use.
+
+## Connect
+
+- LinkedIn: [Ahmed Raza](https://www.linkedin.com/in/ahmed-raza-48a994238/)
